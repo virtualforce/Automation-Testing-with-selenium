@@ -4,9 +4,9 @@
 	Selenium automates browser. Selenium is a set of tools and library that automate browser actions. Selenium provides tools   that can interact with browser and can automate browser actions like click, input, select etc with the help of script. Selenium is not a tool but library of tools
 
 # 2. Features of Selenium
-   Flexible & Extensible
-   Mutiple Language support
-   Mutiple browser support
+   * Flexible & Extensible
+   * Mutiple Language support
+   * Mutiple browser support
 
 # 3. Components of Selenium
   ## Selenium IDE 
@@ -50,7 +50,9 @@ Example of using Selenium with Ruby
  # ChaiJS
   Chai is a BDD / TDD assertion library for node and the browser that can be delightfully paired with any javascript testing framework
 Example 
-  await assert.equal(emailErr, 'This field is required', 'Validation Error');
+  
+  `await assert.equal(emailErr, 'This field is required', 'Validation Error');`
+  
 # Jasmine
 Jasmine is a behavior-driven development framework for testing JavaScript code. It does not depend on any other JavaScript frameworks. It does not require a DOM. And it has a clean, obvious syntax so that you can easily write tests.
 Example
